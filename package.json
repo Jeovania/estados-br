@@ -1,6 +1,6 @@
 {
   "name": "estados-br",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Lista de estados brasileiros",
   "main": "dist/index.js",
   "scripts": {
