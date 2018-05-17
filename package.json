@@ -1,6 +1,6 @@
 {
   "name": "estados-br",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Lista de estados brasileiros",
   "main": "dist/index.js",
   "scripts": {
@@ -20,12 +20,12 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Jeovania/estados-brasil"
+    "url": "https://github.com/Jeovania/estados-br"
   },
   "bugs": {
-    "url": "https://github.com/Jeovania/estados-brasil/issues"
+    "url": "https://github.com/Jeovania/estados-br/issues"
   },
-  "homepage": "https://github.com/Jeovania/estados-brasil",
+  "homepage": "https://github.com/Jeovania/estados-br",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-eslint": "^8.0.0",
